@@ -1,1 +1,1 @@
-
+Create two new sheets, titled "onlyI" and "onlyT", effectively separating the members working alone and the members working in teams. To do this, filter the "data' sheet by column H and select only the "an" rows. This can then be pasted into the "onlyI" sheet while selecting everything then deselecting the "an" rows results in the teams, which can be pasted into the "onlyT" sheet. 
